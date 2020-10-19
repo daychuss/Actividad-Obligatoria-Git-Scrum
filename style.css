@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+#header{
+    background-color: #F6CED8;
+    font-family: 'Dancing Script', cursive;
+}
+#header img{
+    width: 120px;
+}
+.titulo{
+    font-size: 40px;
+}
+section{
+    height: 339px;
+}
+section .container{
+    margin-top: 100px;
+}
+form{
+    font-family: 'Lucida Sans Unicode', cursive;
+}
+input{
+    border-radius: 5px;
+}
+button{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 40px;
+
+}
+.gif{
+    width: 100px;
+    height: 70px;
+}
+#footer{
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-top: 15px;
+    background-color: #F6CED8;
+}
